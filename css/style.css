@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    background-color: #90c6f5;
+}
+.container{
+    width: 1140px;
+    background-color: #7070fb;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+h1{
+    margin: 0px;
+    font-size: 90px;
+    color: #dbdbdb;
+}
+strong{
+	color: #64a7ed;
+}
+p{
+    margin: 0px;
+    font-size: 30px;
+    line-height: 35px;
+}
+.banner{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    max-width: 100%;
+}
